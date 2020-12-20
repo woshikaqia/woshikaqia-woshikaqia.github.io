@@ -24,7 +24,7 @@ devtools::install_github("woshikaqia/MIRTutils")
 ### GitHub Repo
 https://github.com/woshikaqia/MIRTutils/.
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:2px solid gray">
 
 ## The NGSS psychometrics toolkit
 ### Summary
