@@ -37,7 +37,7 @@ The NGSS psychometrics toolkit is an Shiny app I built to visualize data and res
 A few things the app does are, for items in a specific client's item bank in a given year:
 * Retrival and summary of IRT item parameters.
 * Retrival and summary of the classical statistcs at both the item level and testlet level
-* Cross-client comparsion of the clssical stattistcs for items shared between any of the two clients 
+* Cross-client comparsion of the clssical statistcs for items shared between any of the two clients 
 * Display study results comparing calibration results among differnt software
 
 ### Run a demo
