@@ -10,7 +10,7 @@ Below are a couple of projects I have been working on. Hopefully there are many 
 
 ## The MIRTutils package
 ### Summary
-The MIRTutils package is an R package that contains a set of utilty functions to help people conduct Item Reponse Theory (IRT) analyses. Other than dealing with traditional items, it is especailly designed to deal with new item types such as **item bundles** that are modeled by the Testlet Model (Bradlow, Wainer & Wang, 1999). Thing it does includes:
+The MIRTutils package is an R package that contains a set of utilty functions to help people conduct Item Reponse Theory (IRT) analyses. Other than dealing with traditional items, it is especailly designed to deal with new item types such as **item bundles** that are modeled by the Testlet Model (Bradlow, Wainer & Wang, 1999). Things it does include:
 * Simulate item/testlet response data 
 * Compute the probablity of getting a specific raw score, expected scores and score residuals, at both the item level and testlet level. 
 * Compute item/testlet infomation 
