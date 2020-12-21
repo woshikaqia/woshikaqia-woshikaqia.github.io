@@ -18,7 +18,7 @@ For more details, use the help function in R to retrieve R documentations after 
 * use `help(<function_name>)` for details about a specific function.
 
 ### Install
-```R
+```r
 devtools::install_github("woshikaqia/MIRTutils")
 ```
 ### GitHub Repo
@@ -39,7 +39,7 @@ A few things the app does are, for items in a specific client's item bank in a g
 ### Run a demo
 Although this is a highly project-specific app, a demo can be run to get a flavor of what exactly it does if you are interested. The most part of it should be self-explanatory.
 To run the app on your computer, install the `shiny` package in R and run
-```R
+```r
 shiny::runGitHub( "woshikaqia", "NGSSapp")
 ```
 ### GitHub Repo
