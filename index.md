@@ -6,6 +6,8 @@ I believe not a whole lot of people in my field use GitHub. I've recently starte
 
 Below are a couple of projects I have been working on. Hopefully there are many more to come in the near future.
 
+<hr style="border:2px solid gray">
+
 ## The MIRTutils package
 ### Summary
 The MIRTutils package is an R package that contains a set of utilty functions to help people conduct Item Reponse Theory (IRT) analyses. Other than dealing with traditional items, it is especailly designed to deal with new item types such as **item bundles** that are modeled by the Testlet Model (Bradlow, Wainer & Wang, 1999). Thing it does includes:
