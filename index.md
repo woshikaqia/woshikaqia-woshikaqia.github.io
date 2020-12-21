@@ -2,7 +2,9 @@
 
 I am a psychometrician and social scientist specialized in measuremnt and statistics. I strive to deliver reliable and impactful educational and psychological assessments. 
 
-I believe not a whole lot of people in my field use GitHub. I've recently started using GitHub and found it is a fun to be able to share ideas with a broader community. Below are a couple of projects I have been working on. Hopefully there are many more to come in the near future.
+I believe not a whole lot of people in my field use GitHub. I've recently started using GitHub and found it is a fun to be able to share ideas with a broader community. 
+
+Below are a couple of projects I have been working on. Hopefully there are many more to come in the near future.
 
 ## The MIRTutils package
 ### Summary
