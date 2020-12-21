@@ -44,7 +44,7 @@ A few things the app does are, for items in a specific client's item bank in a g
 Although this is a highly project-specific app, a demo can be run to get a flavor of what exactly it does if you are interested. The most part of it should be self-explanatory.
 To run the app on your computer, install the `shiny` package in R and run
 ```r
-shiny::runGitHub( "woshikaqia", "NGSSapp")
+shiny::runGitHub("NGSSapp", "woshikaqia")
 ```
 ### GitHub Repo
 [https://github.com/woshikaqia/NGSSapp/](https://github.com/woshikaqia/NGSSapp/)
