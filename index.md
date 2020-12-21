@@ -22,7 +22,7 @@ For more details, use the help function in R to retrieve R documentations after 
 devtools::install_github("woshikaqia/MIRTutils")
 ```
 ### GitHub Repo
-https://github.com/woshikaqia/MIRTutils/.
+https://github.com/woshikaqia/MIRTutils/
 
 <hr style="border:2px solid gray">
 
@@ -43,4 +43,4 @@ To run the app on your computer, install the `shiny` package in R and run
 shiny::runGitHub( "woshikaqia", "NGSSapp")
 ```
 ### GitHub Repo
-https://github.com/woshikaqia/NGSSapp/.
+https://github.com/woshikaqia/NGSSapp/
