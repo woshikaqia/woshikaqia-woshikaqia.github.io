@@ -46,5 +46,6 @@ To run the app on your computer, install the `shiny` package in R and run
 ```r
 shiny::runGitHub("NGSSapp", "woshikaqia")
 ```
+All data are fake in the demo.
 ### GitHub Repo
 [https://github.com/woshikaqia/NGSSapp/](https://github.com/woshikaqia/NGSSapp/)
